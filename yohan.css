@@ -34,8 +34,8 @@ body {
   border: 2px solid #ddd;
   padding: 20px;
   background-color: #f9f9f9;
-  width: fit-content; /* 가로 크기 조정 */
-  height: 400px; /* 세로 크기 조정 */
+  width: fit-content;/* 가로 크기 조정 */
+  height: 400px;/* 세로 크기 조정 */
   margin: 0 auto;
   text-align: left;
   border-radius: 10px;
